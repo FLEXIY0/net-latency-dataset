@@ -10,7 +10,7 @@ re-validated every 15 minutes.
 | `data/probe_set_b.txt` | endpoint set B (encoded) |
 | `data/probe_set_c.txt` | endpoint set C (encoded) |
 
-Last snapshot: 02.10.2026 03:37 (UTC+3)
+Last snapshot: 02.10.2026 09:40 (UTC+3)
 
 Data is provided as-is, without any guarantee of availability or accuracy.
 Released under CC0 1.0 (see `LICENSE`).
